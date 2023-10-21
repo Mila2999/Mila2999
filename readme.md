@@ -1,7 +1,7 @@
-Hey there, I am Mila...
+<p>Hey there, I am Mila...</p>
 
-Enthusiastic about JavaScript, especially React and Node.js.
+<p>Enthusiastic about JavaScript, especially React and Node.js.
 
-Open to collaborating on innovative projects and contributing to progressive dev teams.
+Open to collaborating on innovative projects and contributing to progressive dev teams.<p/>
 
-Let's build something amazing together! 🚀"
+<p>Let's build something amazing together! 🚀"</p>
